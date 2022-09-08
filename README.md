@@ -19,3 +19,8 @@
 
 - [How to Build a REST API with JavaScript, Node.js, and Express.js](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api)
 - [Clean architecture - making Node.js API shine!](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)
+
+## Code versioning
+
+- [Conventional Commits](https://www.conventionalcommits.org)
+- [Semantic Versioning](https://semver.org/)
