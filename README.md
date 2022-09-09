@@ -34,3 +34,9 @@
 ## Testing
 
 - [Javascript testing best practices by @goldbergyoni](https://github.com/goldbergyoni/javascript-testing-best-practices)
+
+## Uncategorized
+
+- [Free API – Huge List of Public APIs For Testing [No Key] ](https://apipheny.io/free-api/)
+- [RapidAPI Hub](https://rapidapi.com/hub)
+- [Bootstrap based templates](https://github.com/mdbootstrap/bootstrap-shopping-carts)
