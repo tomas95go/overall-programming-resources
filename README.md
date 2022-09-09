@@ -8,12 +8,10 @@
 - [Hexagonal Architecture by Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)
 - [The Software Architecture Handbook](https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/)
 
-
 ## NestJs
 
 - [Creating Dynamic Modules Part 1](https://dev.to/tkssharma/creating-dynamic-modules-in-nest-js-part-1-2n0d)
 - [Creating Dynamic Modules Part 2](https://dev.to/tkssharma/creating-dynamic-modules-in-nest-js-part-2-g1j)
-
 
 ## Node.js
 
@@ -24,3 +22,7 @@
 
 - [Conventional Commits](https://www.conventionalcommits.org)
 - [Semantic Versioning](https://semver.org/)
+
+## REST APIs
+
+- [Rest API. Best Practices to design at the 2nd Maturity Level by @geeksusma](https://github.com/geeksusma/rest-2nd-level)
