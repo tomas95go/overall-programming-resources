@@ -26,3 +26,11 @@
 ## REST APIs
 
 - [Rest API. Best Practices to design at the 2nd Maturity Level by @geeksusma](https://github.com/geeksusma/rest-2nd-level)
+
+## Design Patterns
+
+- [Design patterns for humans by @kamranahmedse](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+## Testing
+
+- [Javascript testing best practices by @goldbergyoni](https://github.com/goldbergyoni/javascript-testing-best-practices)
