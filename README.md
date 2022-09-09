@@ -40,3 +40,4 @@
 - [Free API – Huge List of Public APIs For Testing [No Key] ](https://apipheny.io/free-api/)
 - [RapidAPI Hub](https://rapidapi.com/hub)
 - [Bootstrap based templates](https://github.com/mdbootstrap/bootstrap-shopping-carts)
+- [Software developer resources compilation by @oliverjumpertz](https://twitter.com/oliverjumpertz/status/1567836359636697090?t=0oJNRDDkeh2M3VLcPi7Viw&s=08)
