@@ -41,3 +41,4 @@
 - [RapidAPI Hub](https://rapidapi.com/hub)
 - [Bootstrap based templates](https://github.com/mdbootstrap/bootstrap-shopping-carts)
 - [Software developer resources compilation by @oliverjumpertz](https://twitter.com/oliverjumpertz/status/1567836359636697090?t=0oJNRDDkeh2M3VLcPi7Viw&s=08)
+- [Design resources for developers by @bradtraversy](https://github.com/bradtraversy/design-resources-for-developers)
