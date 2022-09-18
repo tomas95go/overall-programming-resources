@@ -41,6 +41,9 @@
  
 ## Uncategorized
 
-- [Free API – Huge List of Public APIs For Testing [No Key] ](https://apipheny.io/free-api/)
+- [Free API – Huge List of Public APIs For Testing [No Key]](https://apipheny.io/free-api/)
 - [RapidAPI Hub](https://rapidapi.com/hub)
 - [Bootstrap based templates](https://github.com/mdbootstrap/bootstrap-shopping-carts)
+- [Software devlopment resources compilation by @oliverjumpertz](https://twitter.com/oliverjumpertz/status/1567836359636697090?t=0oJNRDDkeh2M3VLcPi7Viw&s=08)
+- [Design resources for developers by @bradtraversy](https://github.com/bradtraversy/design-resources-for-developers)
+- [Curation of programming resources by @sindresorhus](https://github.com/sindresorhus/awesome)
