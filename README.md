@@ -35,6 +35,10 @@
 
 - [Javascript testing best practices by @goldbergyoni](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
+## Json utilites
+- [JSON data instantly into graphs ](https://jsoncrack.com/)
+- [Create Ts interfaces with JSON ](http://json2ts.com/)
+ 
 ## Uncategorized
 
 - [Free API – Huge List of Public APIs For Testing [No Key] ](https://apipheny.io/free-api/)
